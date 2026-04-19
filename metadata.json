@@ -1,0 +1,6 @@
+{
+  "name": "数据科学思维导图 (Data Science Thinking Path)",
+  "description": "基于 Python 库反向映射数学基础的交互式数据科学实验平台。包含数据生成、统计分析、机器学习预测及数学原理映射。",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
